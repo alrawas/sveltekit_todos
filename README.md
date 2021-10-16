@@ -1,3 +1,11 @@
+# Todos App
+This is a sveltekit + tailwind + daisyui + mongodb project for a todo app.
+
+# How to use
+just add a valid mongo_url in the `.env` file and run the project
+
+
+---
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);
